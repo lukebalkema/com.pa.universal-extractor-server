@@ -1,2 +1,9 @@
 # Universal_Metal_Extractor
 An extractor that can be placed without metal spots
+
+1. I have made a “server_mods” folder
+2. Named the file correctly, and made the “modinfo.json” file and added the appropriate things
+3. I copied and pasted the “metal_extractor.json” file from “\Planetary Annihilation Titans\media\pa\units\land\metal_extractor” and put that into the folder in the mod file that I made.
+4. I modified only two things inside of the file, and that was the section that said that it had to be built on a metal extractor. I just deleted it. I also deleted the “replaceable units” that has the advanced metal extractor. I also renamed the structure to “universal_metal_extractor” so that it is differentiated from the original metal extractor. For the model and the animations I left the same .papa files for the original extractor because I thought that the game would still be able to pull the original model and animation for this universal metal extractor that I am making. It just copy and paste it from the original metal extractor? (this might be where I could be wrong, let me know if PA does not allow this lol)
+5. I made the “unit_list.json” file in the mod folder and then copied and pasted the existing unit list from the original game, and then added a new line with the directions to the universal metal extractor
+6. I then made the “\ui\mods\com.pa.universal-extractor-server” folders and then put the “shared_build.js” in this spot. I put the direction to the universal_metal_extractor.json file and made it “["utility", 6,{row: 1, column: 0 }]”. Below there is this other line of code that is below that I assume is used to put some keybind on the new structure. I could be wrong with that and if that line should not be there then that could be the issue.
