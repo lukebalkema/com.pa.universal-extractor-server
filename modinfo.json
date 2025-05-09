@@ -1,0 +1,15 @@
+{
+    "identifier": "com.pa.universal-extractor-server",
+    "context": "server",
+    "version": "1.0.0",
+    "author": "Themanofshade",
+    "description": "This is an attempt to make a universal metal extractor that can be placed anywhere.",
+    "category": ["units"],
+    "forum": "",
+    "icon": "",
+    "signature": "not yet implemented",
+    "titansOnly": true,
+    "display_name": "Universal Metal Extractor",
+    "build": "120799",
+    "date": "2025-05-8"
+  }
