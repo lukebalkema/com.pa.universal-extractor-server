@@ -22,7 +22,8 @@
         "UNITTYPE_MetalProduction",
         "UNITTYPE_CmdBuild",
         "UNITTYPE_FabBuild",
-        "UNITTYPE_Economy"
+        "UNITTYPE_Economy",
+        "UNITTYPE_custom58"
     ],
     "recon": {
         "observer": {
