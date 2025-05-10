@@ -8,8 +8,9 @@
     "forum": "",
     "icon": "",
     "signature": "not yet implemented",
-    "titansOnly": true,
+    "titansOnly": false,
     "display_name": "Universal Metal Extractor",
-    "build": "120799",
+    "build": "178799",
     "date": "2025-05-8"
   }
+
