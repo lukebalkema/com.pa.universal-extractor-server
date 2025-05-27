@@ -11,6 +11,14 @@
     "titansOnly": true,
     "display_name": "Universal Metal Extractor",
     "build": "178799",
-    "date": "2025-05-8"
+    "date": "2025-05-8",
+    "scenes": {
+        "shared_build": [
+            "coui://ui/mods/com.pa.universal-extractor-server/shared_build.js"
+        ],
+        "icon_atlas": [
+            "coui://ui/mods/com.pa.universal-extractor-server/icon_atlas.js"
+        ]
+    }
   }
 
